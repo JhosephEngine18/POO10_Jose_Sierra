@@ -3,7 +3,7 @@ Universidad Amerike
 Author: José Sierra
 Pratice#:10
 Date: 11/03/25
-Description: This code only prints the terms you want from the Fibonacci series
+Description: This code will print the function that you choose
 */
 
 #include <iostream>
